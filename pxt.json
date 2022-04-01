@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Dům": "github:nikoham/domecek#master"
     },
     "files": [
         "README.md",
